@@ -31,6 +31,7 @@ class ViewController: UIViewController {
         let label: UILabel = {
             let labels = UILabel()
             labels.translatesAutoresizingMaskIntoConstraints = false
+//            labels.text = "hello"
             labels.text = "hello"
             labels.font = .systemFont(ofSize: 50, weight: .heavy)
             return labels
@@ -38,8 +39,10 @@ class ViewController: UIViewController {
         
         let image1: UIImageView = {
             let images = UIImageView()
+//            images.translatesAutoresizingMaskIntoConstraints = false
             images.translatesAutoresizingMaskIntoConstraints = false
             images.image = UIImage(named: "Bbang")
+//            images.image = UIImage(systemName: "wand.and.rays")
             images.contentMode = .scaleAspectFit
             return images
         }()

@@ -14,6 +14,7 @@ class ViewController: UITabBarController {
         view.backgroundColor = .black
         setTabBar()
     }
+    
     func setTabBar() {
         let vc1 = UINavigationController(rootViewController: FirstViewController())
         let vc2 = UINavigationController(rootViewController: SecondViewController())

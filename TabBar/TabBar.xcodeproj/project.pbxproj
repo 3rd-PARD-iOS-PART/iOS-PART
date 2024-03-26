@@ -64,10 +64,10 @@
 			children = (
 				21DC85142AC69160006CC395 /* AppDelegate.swift */,
 				21DC85162AC69160006CC395 /* SceneDelegate.swift */,
+				21DC85182AC69160006CC395 /* ViewController.swift */,
 				21DC85282AC69188006CC395 /* FirstViewController.swift */,
 				21DC852A2AC69192006CC395 /* SecondViewController.swift */,
 				21DC852C2AC69327006CC395 /* ThirdViewController.swift */,
-				21DC85182AC69160006CC395 /* ViewController.swift */,
 				21DC851A2AC69160006CC395 /* Main.storyboard */,
 				21DC851D2AC69161006CC395 /* Assets.xcassets */,
 				21DC851F2AC69161006CC395 /* LaunchScreen.storyboard */,
